@@ -40,18 +40,25 @@ Follow these steps to get a local copy up and running:
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+  ```sh
+
    git clone https://github.com/nellymururi/Skycast_weatherapp.git
+```
+
 2. **Open the project in Android Studio**
- Go to File → Open and select the cloned project folder.
+Go to File → Open and select the cloned project folder.
+
 3. **Add your API key**
 - Navigate to your code where the API key is defined (usually in RetrofitClient.kt).
 - Replace the placeholder with your actual API key:
-   ```bash
+  ```sh
    const val API_KEY = "YOUR_API_KEY"
+  ```
+
 4. **Build and Run**
   Connect an Android device or use an emulator, then click Run ▶️ in Android Studio.
 **🧩 Folder Structure**
+```sh
 
 SkyCast/
 │
@@ -64,6 +71,8 @@ SkyCast/
 │
 ├── app/src/main/res/           # Resources (drawables, layouts, values)
 └── build.gradle.kts
+```
+
 
 **💡 Future Enhancements**
 - Add hourly and weekly forecasts
@@ -72,5 +81,5 @@ SkyCast/
 - Enable offline caching
 
 **📜 License**
-This project is licensed under the MIT License — see the LICENSE
- file for details.
+License
+This project is licensed under the [MIT License](LICENSE).
