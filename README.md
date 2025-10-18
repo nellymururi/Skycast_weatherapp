@@ -57,6 +57,8 @@ Go to File → Open and select the cloned project folder.
 
 4. **Build and Run**
   Connect an Android device or use an emulator, then click Run ▶️ in Android Studio.
+
+
 **🧩 Folder Structure**
 ```sh
 
