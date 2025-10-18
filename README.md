@@ -74,12 +74,12 @@ SkyCast/
 ```
 
 
-**💡 Future Enhancements**
+## **💡 Future Enhancements**
 - Add hourly and weekly forecasts
 - Integrate weather alerts
 - Add animations for different weather conditions
 - Enable offline caching
 
-**📜 License**
+## **📜 License**
 License
 This project is licensed under the [MIT License](LICENSE).
